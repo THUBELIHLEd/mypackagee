@@ -2,8 +2,8 @@
 def sum_array(array):
 
     '''Returns sum of all items in array'''
-    num_sum = sum(array) '''sumimng the numbers in the array'''
-    return num_sum '''it returns the sum of the array '''
+    num_sum = sum(array) #sumimng the numbers in the array
+    return num_sum #it returns the sum of the array
 
 #-----------------------------------------------------------------------------------
 def fibonacci(n):
