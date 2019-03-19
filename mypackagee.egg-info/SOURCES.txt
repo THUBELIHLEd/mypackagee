@@ -1,0 +1,10 @@
+README.md
+setup.py
+mypackagee/__init__.py
+mypackagee/recursion.py
+mypackagee/sorting.py
+mypackagee.egg-info/PKG-INFO
+mypackagee.egg-info/SOURCES.txt
+mypackagee.egg-info/dependency_links.txt
+mypackagee.egg-info/requires.txt
+mypackagee.egg-info/top_level.txt
